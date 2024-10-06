@@ -1,16 +1,37 @@
-# fast_location
+## Fast Location
+Fast Location é um aplicativo de geolocalização desenvolvido em Flutter e Dart, permitindo que o usuário obtenha sua localização atual com rapidez e precisão. O aplicativo oferece uma interface simples e interativa para visualização da localização em tempo real.
 
-A new Flutter project.
+## Funcionalidades
+Obtenção rápida da localização atual
+Exibição da localização em um mapa interativo
+Atualização em tempo real da posição do usuário
+Visualização de coordenadas de latitude e longitude
 
-## Getting Started
+## Instalação
+Para rodar o projeto localmente, siga os passos abaixo:
 
-This project is a starting point for a Flutter application.
+Certifique-se de que você tem o Flutter e o Dart instalados.
 
-A few resources to get you started if this is your first Flutter project:
+Clone o repositório para sua máquina local:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+bash
+Copiar código
+git clone https://github.com/tiagodmgs/appfastlocation.git
+Navegue até a pasta do projeto:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+bash
+Copiar código
+cd appfastlocation
+Instale as dependências:
+
+bash
+Copiar código
+flutter pub get
+Rode o projeto:
+
+bash
+Copiar código
+flutter run
+
+## Como Usar
+Ao abrir o aplicativo, você verá sua localização atual exibida após consultar o CEP.
