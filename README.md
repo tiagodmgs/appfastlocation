@@ -9,28 +9,18 @@ Visualização de coordenadas de latitude e longitude
 
 ## Instalação
 Para rodar o projeto localmente, siga os passos abaixo:
-
 Certifique-se de que você tem o Flutter e o Dart instalados.
 
 Clone o repositório para sua máquina local:
-
-bash
-Copiar código
 git clone https://github.com/tiagodmgs/appfastlocation.git
+
 Navegue até a pasta do projeto:
-
-bash
-Copiar código
 cd appfastlocation
+
 Instale as dependências:
-
-bash
-Copiar código
 flutter pub get
-Rode o projeto:
 
-bash
-Copiar código
+Rode o projeto:
 flutter run
 
 ## Como Usar
